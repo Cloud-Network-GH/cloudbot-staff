@@ -1,0 +1,148 @@
+{
+  "lastUpdated": "2026-03-22T23:07:29.975Z",
+  "positions": {
+    "1316468501543911485": {
+      "x": 40,
+      "y": 80
+    },
+    "807218448479289395": {
+      "x": 400,
+      "y": 80
+    }
+  },
+  "servers": [
+    {
+      "id": "1316468501543911485",
+      "name": "Cloud Coffee",
+      "emoji": "☕",
+      "icon": null,
+      "inviteCode": "amis",
+      "memberCount": 17,
+      "staffRoles": [
+        "1362152799151984740",
+        "1419411567195459730",
+        "1316831924387319898"
+      ],
+      "roles": [
+        {
+          "id": "1362152799151984740",
+          "name": "ADMIN",
+          "color": "#f1c40f",
+          "members": [
+            {
+              "id": "485877003241652224",
+              "username": "Lior",
+              "avatar": "https://cdn.discordapp.com/avatars/485877003241652224/a41b9713152d389b00b96ec734ece521.png?size=64"
+            },
+            {
+              "id": "746721941326659685",
+              "username": "tunkikoulol",
+              "avatar": "https://cdn.discordapp.com/avatars/746721941326659685/c0740ec343fcc7b081ed127b865dec8a.png?size=64"
+            },
+            {
+              "id": "908997172748492810",
+              "username": "Loukaaa_pl",
+              "avatar": "https://cdn.discordapp.com/avatars/908997172748492810/2517376744ae65a6e574eebce1066a0c.png?size=64"
+            }
+          ]
+        },
+        {
+          "id": "1419411567195459730",
+          "name": "CF Prime+ Bots",
+          "color": "#8f0000",
+          "members": []
+        },
+        {
+          "id": "1316831924387319898",
+          "name": "DraftBot",
+          "color": "#99aab5",
+          "members": []
+        }
+      ]
+    },
+    {
+      "id": "807218448479289395",
+      "name": "CF Cloud",
+      "emoji": "🎬",
+      "icon": "https://cdn.discordapp.com/icons/807218448479289395/064d0c0c0d2f88da0e3d18e1077a3425.png?size=128",
+      "inviteCode": "cfprime",
+      "memberCount": 13,
+      "staffRoles": [
+        "1449828884852899841",
+        "814256622196883506",
+        "807219913710239795",
+        "807695811227811842",
+        "1474162063474688183",
+        "1474162094298628179"
+      ],
+      "roles": [
+        {
+          "id": "1449828884852899841",
+          "name": "VIP",
+          "color": "#ffc34f",
+          "members": [
+            {
+              "id": "485877003241652224",
+              "username": "Lior",
+              "avatar": "https://cdn.discordapp.com/avatars/485877003241652224/a41b9713152d389b00b96ec734ece521.png?size=64"
+            }
+          ]
+        },
+        {
+          "id": "814256622196883506",
+          "name": "Minecraft",
+          "color": "#992d22",
+          "members": [
+            {
+              "id": "567779237398839316",
+              "username": "Red Bedrock",
+              "avatar": "https://cdn.discordapp.com/avatars/567779237398839316/58b57e2d8dfc86093322af37644e2d79.png?size=64"
+            },
+            {
+              "id": "670669871981395998",
+              "username": "Ilan Tellouck",
+              "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+            },
+            {
+              "id": "715824282764312596",
+              "username": "jeje_tordj",
+              "avatar": "https://cdn.discordapp.com/embed/avatars/1.png"
+            }
+          ]
+        },
+        {
+          "id": "807219913710239795",
+          "name": "MEE6",
+          "color": "#99aab5",
+          "members": []
+        },
+        {
+          "id": "807695811227811842",
+          "name": "Groovy",
+          "color": "#99aab5",
+          "members": []
+        },
+        {
+          "id": "1474162063474688183",
+          "name": "test1",
+          "color": "#99aab5",
+          "members": [
+            {
+              "id": "485877003241652224",
+              "username": "Lior",
+              "avatar": "https://cdn.discordapp.com/avatars/485877003241652224/a41b9713152d389b00b96ec734ece521.png?size=64"
+            }
+          ]
+        },
+        {
+          "id": "1474162094298628179",
+          "name": "test2",
+          "color": "#99aab5",
+          "members": []
+        }
+      ]
+    }
+  ],
+  "uploadedBy": "485877003241652224",
+  "uploadedAt": "2026-03-22T23:06:45.992Z"
+}
