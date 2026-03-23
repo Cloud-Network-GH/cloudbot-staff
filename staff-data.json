@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-23T00:14:23.257Z",
+  "lastUpdated": "2026-03-23T00:27:47.630Z",
   "positions": {
     "1316468501543911485": {
       "x": 40,
@@ -50,7 +50,13 @@
           "id": "1419411567195459730",
           "name": "CF Prime+ Bots",
           "color": "#8f0000",
-          "members": []
+          "members": [
+            {
+              "id": "485877003241652224",
+              "username": "Lior",
+              "avatar": "https://cdn.discordapp.com/avatars/485877003241652224/a41b9713152d389b00b96ec734ece521.png?size=64"
+            }
+          ]
         },
         {
           "id": "1316831924387319898",
