@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-23T00:27:47.630Z",
+  "lastUpdated": "2026-03-25T11:10:04.755Z",
   "positions": {
     "1316468501543911485": {
       "x": 40,
@@ -19,33 +19,12 @@
       "inviteCode": "amis",
       "memberCount": 17,
       "staffRoles": [
-        "1362152799151984740",
         "1419411567195459730",
-        "1316831924387319898"
+        "1362152799151984740",
+        "1316831924387319898",
+        "1316468718062145700"
       ],
       "roles": [
-        {
-          "id": "1362152799151984740",
-          "name": "ADMIN",
-          "color": "#f1c40f",
-          "members": [
-            {
-              "id": "485877003241652224",
-              "username": "Lior",
-              "avatar": "https://cdn.discordapp.com/avatars/485877003241652224/a41b9713152d389b00b96ec734ece521.png?size=64"
-            },
-            {
-              "id": "746721941326659685",
-              "username": "tunkikoulol",
-              "avatar": "https://cdn.discordapp.com/avatars/746721941326659685/c0740ec343fcc7b081ed127b865dec8a.png?size=64"
-            },
-            {
-              "id": "908997172748492810",
-              "username": "Loukaaa_pl",
-              "avatar": "https://cdn.discordapp.com/avatars/908997172748492810/2517376744ae65a6e574eebce1066a0c.png?size=64"
-            }
-          ]
-        },
         {
           "id": "1419411567195459730",
           "name": "CF Prime+ Bots",
@@ -54,13 +33,41 @@
             {
               "id": "485877003241652224",
               "username": "Lior",
-              "avatar": "https://cdn.discordapp.com/avatars/485877003241652224/a41b9713152d389b00b96ec734ece521.png?size=64"
+              "avatar": "https://cdn.discordapp.com/avatars/485877003241652224/a41b9713152d389b00b96ec734ece521.webp?size=32"
+            }
+          ]
+        },
+        {
+          "id": "1362152799151984740",
+          "name": "ADMIN",
+          "color": "#f1c40f",
+          "members": [
+            {
+              "id": "485877003241652224",
+              "username": "Lior",
+              "avatar": "https://cdn.discordapp.com/avatars/485877003241652224/a41b9713152d389b00b96ec734ece521.webp?size=32"
+            },
+            {
+              "id": "746721941326659685",
+              "username": "tunkikoulol",
+              "avatar": "https://cdn.discordapp.com/avatars/746721941326659685/c0740ec343fcc7b081ed127b865dec8a.webp?size=32"
+            },
+            {
+              "id": "908997172748492810",
+              "username": "Loukaaa_pl",
+              "avatar": "https://cdn.discordapp.com/avatars/908997172748492810/2517376744ae65a6e574eebce1066a0c.webp?size=32"
             }
           ]
         },
         {
           "id": "1316831924387319898",
           "name": "DraftBot",
+          "color": "#99aab5",
+          "members": []
+        },
+        {
+          "id": "1316468718062145700",
+          "name": "Tickety",
           "color": "#99aab5",
           "members": []
         }
@@ -76,9 +83,8 @@
       "staffRoles": [
         "1449828884852899841",
         "814256622196883506",
-        "807219913710239795",
         "807695811227811842",
-        "1474162063474688183"
+        "1474162094298628179"
       ],
       "roles": [
         {
@@ -89,12 +95,12 @@
             {
               "id": "485877003241652224",
               "username": "Lior",
-              "avatar": "https://cdn.discordapp.com/avatars/485877003241652224/a41b9713152d389b00b96ec734ece521.png?size=64"
+              "avatar": "https://cdn.discordapp.com/avatars/485877003241652224/a41b9713152d389b00b96ec734ece521.webp?size=32"
             },
             {
               "id": "567779237398839316",
               "username": "Red Bedrock",
-              "avatar": "https://cdn.discordapp.com/avatars/567779237398839316/58b57e2d8dfc86093322af37644e2d79.png?size=64"
+              "avatar": "https://cdn.discordapp.com/avatars/567779237398839316/58b57e2d8dfc86093322af37644e2d79.webp?size=32"
             }
           ]
         },
@@ -106,7 +112,7 @@
             {
               "id": "567779237398839316",
               "username": "Red Bedrock",
-              "avatar": "https://cdn.discordapp.com/avatars/567779237398839316/58b57e2d8dfc86093322af37644e2d79.png?size=64"
+              "avatar": "https://cdn.discordapp.com/avatars/567779237398839316/58b57e2d8dfc86093322af37644e2d79.webp?size=32"
             },
             {
               "id": "670669871981395998",
@@ -121,32 +127,20 @@
           ]
         },
         {
-          "id": "807219913710239795",
-          "name": "MEE6",
-          "color": "#99aab5",
-          "members": []
-        },
-        {
           "id": "807695811227811842",
           "name": "Groovy",
           "color": "#99aab5",
           "members": []
         },
         {
-          "id": "1474162063474688183",
-          "name": "test1",
+          "id": "1474162094298628179",
+          "name": "test2",
           "color": "#99aab5",
-          "members": [
-            {
-              "id": "485877003241652224",
-              "username": "Lior",
-              "avatar": "https://cdn.discordapp.com/avatars/485877003241652224/a41b9713152d389b00b96ec734ece521.png?size=64"
-            }
-          ]
+          "members": []
         }
       ]
     }
   ],
   "uploadedBy": "485877003241652224",
-  "uploadedAt": "2026-03-23T00:25:33.222Z"
+  "uploadedAt": "2026-03-25T11:10:16.316Z"
 }
